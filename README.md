@@ -17,3 +17,6 @@ This is an Android app I designed for my high school science fair.  It's a proof
 
 ## Author
 Samobot
+
+## License
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt)
