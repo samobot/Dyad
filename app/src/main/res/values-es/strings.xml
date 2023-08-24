@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brightnessBarText">Brillo:</string>
+    <string name="addNewServiceButtonText">Añadir Nuevo Dispositivos</string>
+    <string name="connectServiceButtonText">Conectar</string>
+    <string name="connectedServiceButtonText">Conectado</string>
+    <string name="addNewServiceSupportBarText">Añadir Nuevo Dispositivos</string>
+    <string name="lightsPageSupportBarText">Luces</string>
+    <string name="temperatureBarText">Temperatura:</string>
+    <string name="lifxSearchingForLightsText">Buscando luces de LIFX</string>
+    <string name="lifxPleaseWair40SecondsText">Por Favor, Espera hasta 40 Segundos</string>
+    <string name="lightsFoundText">Se Encontraron %1$d Luces</string>
+    <string name="noLightsFoundText">No Se Encontraron Luces</string>
+    <string name="colorBarText">"Color: "</string>
+    <string name="saturationBarText">"Saturación: "</string>
+</resources>

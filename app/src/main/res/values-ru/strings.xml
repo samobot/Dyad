@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brightnessBarText">"Яркость: "</string>
+    <string name="temperatureBarText">"Температура: "</string>
+    <string name="colorBarText">"Цвет: "</string>
+    <string name="saturationBarText">"Насыщенность: "</string>
+    <string name="addNewServiceButtonText">Добавить Новый Устройства</string>
+    <string name="connectServiceButtonText">Подключить</string>
+    <string name="connectedServiceButtonText">Подключённый</string>
+    <string name="addNewServiceSupportBarText">Добавить Новый Устройства</string>
+    <string name="lightsPageSupportBarText">Светы</string>
+    <string name="lifxSearchingForLightsText">Иская LIFX Светы</string>
+    <string name="lifxPleaseWair40SecondsText">Пожакыйста, Подождите до 40 секунд</string>
+    <string name="lightsFoundText">Нашёл %1$d Светы</string>
+    <string name="noLightsFoundText">Светы Не Найдено</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Dyad</string>
+    <string name="preference_file_key" translatable="false">com.samobot.SmartHomeControl.PREFERENCE_FILE_KEY</string>
+    <string name="device_ip_key" translatable="false">device_ip_key</string>
+    <string name="apikey_key" translatable="false">apikey_key</string>
+    <string name="deviceIDs_set_key" translatable="false">deviceIDs_set_key</string>
+    <string name="ishueenabled_key" translatable="false">ishueenabled_key</string>
+    <string name="islifxenabled_key" translatable="false">islifxenabled_key</string>
+
+
+    <string name="brightnessBarText">Brightness: </string>
+    <string name="temperatureBarText">Temperature: </string>
+    <string name="colorBarText">Color: </string>
+    <string name="saturationBarText">Saturation: </string>
+    <string name="addNewServiceButtonText">Add New Devices</string>
+    <string name="connectServiceButtonText">Connect</string>
+    <string name="connectedServiceButtonText">Connected</string>
+    <string name="philipsHue" translatable="false">Philips Hue</string>
+    <string name="lifx" translatable="false">LIFX</string>
+    <string name="addNewServiceSupportBarText">Add New Devices</string>
+    <string name="lightsPageSupportBarText">Lights</string>
+    <string name="lifxSearchingForLightsText">Searching for LIFX Lights</string>
+    <string name="lifxPleaseWair40SecondsText">Please Wait up to 40 Seconds</string>
+    <string name="lightsFoundText">Found %1$d Lights</string>
+    <string name="noLightsFoundText">No Lights Found</string>
+
+</resources>

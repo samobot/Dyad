@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/light_menu_carat_down"
+        android:state_checked="true"
+        android:id="@+id/checked"/>
+    <item android:drawable="@drawable/light_menu_carat_right"
+        android:id="@+id/unchecked"/>
+    <transition
+        android:fromId="@+id/unchecked"
+        android:toId="@+id/checked"
+        android:reversible="true">
+        <animation-list>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_right"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame8"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame7"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame6"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame5"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame4"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame3"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame2"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_frame1"/>
+            <item android:duration="10"
+                android:drawable="@drawable/light_menu_carat_down"/>
+        </animation-list>
+    </transition>
+</animated-selector>
